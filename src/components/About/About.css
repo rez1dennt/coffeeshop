@@ -1,0 +1,25 @@
+.About__content {
+  text-align: center;
+  padding: 80px 0 101px 0;
+}
+
+.About__content h1 {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 24px;
+  color: #000;
+  margin-bottom: 20px;
+}
+
+.About__content img {
+    margin-bottom: 40px;
+}
+
+.About__content p {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 14px;
+  text-align: center;
+  color: #000;
+
+}

@@ -1,0 +1,50 @@
+.header__center {
+  background: url("../../assets/HeaderImg/desk-791178_1920.svg");
+  background-size: cover;
+  height: 70vh;
+  padding: 181px 0 201px 0;
+ 
+}
+
+.header__center {
+  text-align: center;
+}
+
+.header__center h1 {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 40px;
+  color: #fff;
+  margin-bottom: 20px;
+}
+
+.header__center img {
+    margin-bottom: 35px;
+}
+
+.header__center h2 {
+    font-family: var(--font-family);
+font-weight: 700;
+font-size: 24px;
+color: #fff;
+margin-bottom: 20px;
+
+}
+
+.header__center button {
+    font-family: var(--font-family);
+font-weight: 700;
+font-size: 14px;
+color: #fff;
+padding: 7px 42px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+background: rgba(196, 196, 196, 0);
+border: 1px solid white;
+border-radius: 4px;
+cursor: pointer;
+transition: all ease-in .2s;
+}
+
+.header__center button:hover {
+  scale: calc(1.03);
+}

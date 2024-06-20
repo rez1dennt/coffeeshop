@@ -1,0 +1,15 @@
+.Goods {
+  background: url("../../assets/Goods/Mask Group.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 35vh;
+}
+
+.Goods__content h1 {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+  padding: 130px 0 84px 0;
+}
